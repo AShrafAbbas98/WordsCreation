@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>WordsCreation.dll</Assembly>
+		<AddInId>FD4B71E5-6F8D-4D84-AC60-0F54F21E465D</AddInId>
+		<FullClassName>WordsCreation.Command</FullClassName>
+		<Text>Create Words</Text>
+		<Description>BIM DEVELOPMENT</Description>
+		<VendorId>Ashraf</VendorId>
+		<VendorDescription>ECBIMER</VendorDescription>
+	</AddIn>
+</RevitAddIns>
